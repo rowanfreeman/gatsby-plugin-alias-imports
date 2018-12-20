@@ -28,7 +28,7 @@
     "@babel/runtime": "^7.2.0"
   },
   "scripts": {
-    "build": "babel src --out-dir . --ignore **/__tests__",
+    "build": "babel src --out-dir .",
     "prepare": "cross-env NODE_ENV=production yarn build"
   }
 }
