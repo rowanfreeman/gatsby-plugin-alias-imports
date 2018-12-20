@@ -1,5 +1,11 @@
 # Change Log
 
+<a name="1.0.1"></a>
+
+## 1.0.1
+
+Fixing npm publish.
+
 <a name="1.0.0"></a>
 
 ## 1.0.0
