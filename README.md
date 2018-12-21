@@ -11,7 +11,7 @@ import '@components/navbar'
 Instead of
 
 ```javascript
-import '../../components/navbar'
+import '../../components/navbar.js'
 ```
 
 This works by simply injecting the options into Webpack using `onCreateWebpackConfig`.
