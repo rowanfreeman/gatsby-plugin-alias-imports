@@ -1,5 +1,11 @@
 # Change Log
 
+<a name="1.0.4"></a>
+
+## 1.0.4
+
+Corrected typos.
+
 <a name="1.0.3"></a>
 
 ## 1.0.3
@@ -11,7 +17,7 @@ Clarified examples in the readme.
 ## 1.0.2
 
 * Added `index.js` to root
-* Fixed path resoltution
+* Fixed path resolution
 
 <a name="1.0.1"></a>
 
