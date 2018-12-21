@@ -72,6 +72,8 @@ E.g. `js`, `css`, `sass`, `md`
 
 ## Example
 
+### gatsby-config.js
+
 ```javascript
 {
   plugins: [
@@ -96,7 +98,7 @@ E.g. `js`, `css`, `sass`, `md`
 }
 ```
 
-Then in your src files:
+### index.js
 
 ```javascript
 import Layout from '@layouts/main'
