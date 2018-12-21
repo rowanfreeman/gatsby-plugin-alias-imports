@@ -1,5 +1,11 @@
 # Change Log
 
+<a name="1.0.3"></a>
+
+## 1.0.3
+
+Clarified examples in the readme.
+
 <a name="1.0.2"></a>
 
 ## 1.0.2
