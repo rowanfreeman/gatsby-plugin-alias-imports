@@ -1,12 +1,6 @@
 const path = require('path')
 
-exports.onCreateWebpackConfig = ({
-  stage,
-  rules,
-  loaders,
-  plugins,
-  actions,
-}, pluginOptions) => {
+exports.onCreateWebpackConfig = ({ actions }, pluginOptions) => {
   if (!pluginOptions) return
 
   const aliases = {}
