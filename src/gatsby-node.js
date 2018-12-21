@@ -14,7 +14,7 @@ exports.onCreateWebpackConfig = ({
   for (let key in pluginOptions.alias) {
     const value = pluginOptions.alias[key]
 
-    aliases[key] = path.isAbsolute(value) ? value : path.resolve(__dirname, value)
+    aliases[key] = path.isAbsolute(value) ? value : path.resolve(value)
   }
 
   actions.setWebpackConfig({

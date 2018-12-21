@@ -81,5 +81,6 @@ typings/
 
 # Ignore output
 /*.js
+!/index.js
 
 yarn.lock
