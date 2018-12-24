@@ -58,7 +58,7 @@ const path = require('path')
 // [ ... ]
 
 alias: {
-  "@components": path.resolve(${__dirname}, 'src/components')
+  "@components": path.resolve(__dirname, 'src/components')
 }
 ```
 
@@ -90,7 +90,7 @@ E.g. `js`, `css`, `sass`, `md`
           "@posts": "content/posts",
         },
         extensions: [
-          "js"
+          "js",
         ],
       }
     }

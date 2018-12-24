@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-alias-imports",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Gatsby plugin for aliasing path locations when importing files.",
   "main": "index.js",
   "repository": "https://github.com/rowanfreeman/gatsby-plugin-alias-imports.git",

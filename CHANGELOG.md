@@ -1,5 +1,11 @@
 # Change Log
 
+<a name="1.0.5"></a>
+
+## 1.0.5
+
+Minor readme fixes.
+
 <a name="1.0.4"></a>
 
 ## 1.0.4
