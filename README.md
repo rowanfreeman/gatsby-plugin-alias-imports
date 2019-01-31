@@ -18,9 +18,15 @@ This works by simply injecting the options into Webpack using `onCreateWebpackCo
 
 ## Install
 
-`npm i --save gatsby-plugin-alias-imports`
+`
+$ npm i --save gatsby-plugin-alias-imports
+`
 
-`yarn add gatsby-plugin-alias-imports`
+or
+
+`
+$ yarn add gatsby-plugin-alias-imports
+`
 
 ## How to use
 
